@@ -38,7 +38,7 @@
       <h2 class="l-heading">wydarzenia</h2>
       <br>
       <br>
-      <img src="img/blu-tede-story.png" width="50%">
+      <img src="blu-tede-story.png" width="50%">
       <br>
       <h2> <br>rezerwacje: blu.club.info@gmail.com</p>
       </h2>
@@ -53,7 +53,7 @@
         <p>BLU Music Club &copy; 2021
       </h1>
       <br>
-      <img src="img/blu-profil1.png" width="30%">
+      <img src="blu-profil1.png" width="30%">
       <br>
       <h3> <br>kontakt: mlgoodvibesagency@gmail.com</p>
         <p><br>+48 516-404-910
